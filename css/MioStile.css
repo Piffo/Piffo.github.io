@@ -1,0 +1,12 @@
+h3 {color: green;
+	background-color: yellow;
+}
+
+p{background-color: #00FA99;
+}
+
+div.elenchi{background-color: black;
+	color:white;
+	margin: 20px 20px 20px;
+	padding-left: 20px;
+}
